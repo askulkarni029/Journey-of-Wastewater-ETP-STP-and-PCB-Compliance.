@@ -1,6 +1,5 @@
 # 💧 Journey-of-Wastewater-ETP-STP-and-PCB-Compliance.
-     ETP • STP • Pollution Control Board Compliance
-
+     
 A visual explainer project that demonstrates the industrial wastewater treatment process using image-based workflows, short AI voiceovers, and infographic storytelling.
 
 This project explains how Effluent Treatment Plants (ETP) and Sewage Treatment Plants (STP) help industries and residential facilities treat wastewater and comply with environmental regulations from the Pollution Control Board (PCB).
@@ -75,7 +74,7 @@ After treatment, water can be safely reused for applications such as:
 
 This helps conserve freshwater resources and protect the environment.
 
-🧠 Technologies & Tools Used
+# 🧠 Technologies & Tools Used
 
 This project uses modern AI-based content creation tools.
 
@@ -117,8 +116,5 @@ Environmental engineering firms
 
 Industrial sustainability consultants
 
-👨‍💻 Author
-
-Abhijit Kulkarni
-
-Automation Engineer | RPA Developer | AI Workflow Builder
+# 🧑‍💻 Author -
+Abhijit Kulkarni RPA Developer | UiPath | N8N | Automation Enthusiast
